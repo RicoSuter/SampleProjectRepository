@@ -1,7 +1,7 @@
 SampleProjectRepository
 =======================
 
-A repository with sample project which generate NuGet packages. The repository and its projects is used to demonstrate a possible repository structure. 
+A repository with a sample project structure used to demonstrate build processes and how to do dependency management using NuGet. 
 
 Run `BuildAll.bat` to build all projects and generate new NuGet packages. 
 The `BuildAll.bat` must be run in the "Developer Command Prompt for Visual Studio" so that the MSBuild application is known. 
